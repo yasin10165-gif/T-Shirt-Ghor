@@ -97,7 +97,7 @@
   <h2 class="section-title">About Us</h2>
   <p>T-Shirt Ghor offers high-quality fabrics, durable prints, and customizable designs according to your preference. Order online easily.</p>
 </section><footer id="contact">
-  <p>📞 WhatsApp: 01XXXXXXXXX</p>
+  <p>📞 WhatsApp: 01540390448</p>
   <p>💳 Payment: Bkash / Nagad (Personal)</p>
   <p>📦 Home Delivery Across Bangladesh</p>
   <p>© 2025 T-Shirt Ghor. All Rights Reserved.</p>
